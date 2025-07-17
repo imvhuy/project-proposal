@@ -80,7 +80,7 @@ Phụ thuộc vào nguồn dữ liệu thủ công gây lỗi và không hiệu 
 ### Tổng quan:
 Một pipeline ETL serverless tích hợp OpenWeatherMap API, Lambda, S3, Athena, QuickSight.
 
-![image](https://github.com/user-attachments/architecture.png)
+[![image](https://imvhuy.github.io/images/etl/architecture.png)
 
 ### Dịch vụ AWS Sử dụng:
 - **Lambda:** thu thập và xử lý dữ liệu  
